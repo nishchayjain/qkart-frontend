@@ -1,0 +1,17 @@
+/* CRIO_SOLUTION_START_MODULE_PRODUCTS */
+/* CRIO_SOLUTION_END_MODULE_PRODUCTS */
+.card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-actions {
+    margin-bottom: 1rem;
+}
+
+.card-button {
+    text-transform: none;
+    font-weight: 600;
+}
