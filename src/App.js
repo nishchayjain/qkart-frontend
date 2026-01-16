@@ -14,7 +14,7 @@ export const config = {
   // endpoint: `http://${ipConfig.workspaceIp}:8082/api/v1`,
   // CRIO_SOLUTION_START_MODULE_DEPLOYMENT
   // endpoint: `https://qkart-frontend.herokuapp.com/api/v1`,
-  endpoint: ` https://content-qkart-frontend-v2-backend.azurewebsites.net/api/v1`,
+  endpoint: `https://content-qkart-frontend-v2-backend.azurewebsites.net/api/v1`,
   // CRIO_SOLUTION_END_MODULE_DEPLOYMENT
 };
 
